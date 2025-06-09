@@ -1,0 +1,2318 @@
+[
+  {
+    "id": 0,
+    "name": "Best Western Plus Yuma Foothills Inn & Suites",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipM9ZsBTSxga0x05HpiEJm-NzfyPK81NdKVGcnG1=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Best-Western-Plus-Yuma-Foothills-Inn--Suites,Yuma-p60815-h4920596-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "10731 S Frontage Rd, Yuma, AZ 85367",
+    "rating": "8.3",
+    "reviews": "553",
+    "class": "2.5-star hotel",
+    "avgPrice": "$82",
+    "driveTime": "23 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=10731%20S%20Frontage%20Rd%2C%20Yuma%2C%20AZ%2085367&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 82,
+    "hotelClass": "2.5star",
+    "driveMinutes": 23,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$122.96"
+      },
+      {
+        "month": "Feb",
+        "price": "$132.70"
+      },
+      {
+        "month": "Mar",
+        "price": "$185.66"
+      },
+      {
+        "month": "Apr",
+        "price": "$115.80"
+      },
+      {
+        "month": "May",
+        "price": "$81.99"
+      },
+      {
+        "month": "Jun",
+        "price": "$86.63"
+      },
+      {
+        "month": "Jul",
+        "price": "$100.13"
+      },
+      {
+        "month": "Aug",
+        "price": "$90.97"
+      },
+      {
+        "month": "Sep",
+        "price": "$100.49"
+      },
+      {
+        "month": "Oct",
+        "price": "$161.39"
+      },
+      {
+        "month": "Nov",
+        "price": "$111.92"
+      },
+      {
+        "month": "Dec",
+        "price": "$88.88"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Best Western Yuma Mall Hotel & Suites",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPBiwviU5Ig9vELuyoFFD3-1Wbif7WEVh4ZeonX=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Best-Western-Yuma-Mall-Hotel--Suites,Yuma-p60815-h36997-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "1450 S Castle Dome Ave, Yuma, AZ 85365",
+    "rating": "8",
+    "reviews": "1176",
+    "class": "3-star hotel",
+    "avgPrice": "$76",
+    "driveTime": "14 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=1450%20S%20Castle%20Dome%20Ave%2C%20Yuma%2C%20AZ%2085365&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 76,
+    "hotelClass": "3star",
+    "driveMinutes": 14,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$96.86"
+      },
+      {
+        "month": "Feb",
+        "price": "$136.89"
+      },
+      {
+        "month": "Mar",
+        "price": "$118.93"
+      },
+      {
+        "month": "Apr",
+        "price": "$120.34"
+      },
+      {
+        "month": "May",
+        "price": "$83.00"
+      },
+      {
+        "month": "Jun",
+        "price": "$93.43"
+      },
+      {
+        "month": "Jul",
+        "price": "$123.91"
+      },
+      {
+        "month": "Aug",
+        "price": "$104.86"
+      },
+      {
+        "month": "Sep",
+        "price": "$158.98"
+      },
+      {
+        "month": "Oct",
+        "price": "$100.14"
+      },
+      {
+        "month": "Nov",
+        "price": "$102.47"
+      },
+      {
+        "month": "Dec",
+        "price": "$75.81"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Budgetel Inn & Suites Yuma",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npiC61tlPc7bUHht5Rxul8lo87Cq25AWWxX0vIgE5uXo827sSJY0WrBA-Q8OGtPTH3bsLCpriCzpyeXsEOj8BuH0vmzEqOFbvaXJHrwacOWpig4zW74YpM3jvKJRyGvT0RiYH0=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Budgetel-Inn--Suites-Yuma,Yuma-p60815-h3623002-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "1640 S Arizona Ave, Yuma, AZ 85364",
+    "rating": "5.4",
+    "reviews": "912",
+    "class": "2-star hotel",
+    "avgPrice": "$49",
+    "driveTime": "14 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=1640%20S%20Arizona%20Ave%2C%20Yuma%2C%20AZ%2085364&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 49,
+    "hotelClass": "2star",
+    "driveMinutes": 14,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$65.96"
+      },
+      {
+        "month": "Feb",
+        "price": "$60.90"
+      },
+      {
+        "month": "Mar",
+        "price": "$59.22"
+      },
+      {
+        "month": "Apr",
+        "price": "$60.93"
+      },
+      {
+        "month": "May",
+        "price": "$56.17"
+      },
+      {
+        "month": "Jun",
+        "price": "$56.65"
+      },
+      {
+        "month": "Jul",
+        "price": "$66.87"
+      },
+      {
+        "month": "Aug",
+        "price": "$51.97"
+      },
+      {
+        "month": "Sep",
+        "price": "$49.07"
+      },
+      {
+        "month": "Oct",
+        "price": "$53.98"
+      },
+      {
+        "month": "Nov",
+        "price": "$59.62"
+      },
+      {
+        "month": "Dec",
+        "price": "$66.87"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Candlewood Suites Yuma",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMQgVsf_m5fFqHYdQeo327exByI67Yc9tgyAjHL=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Candlewood-Suites-Yuma,Yuma-p60815-h177088-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "2036 S Avenue 3 E, Yuma, AZ 85365",
+    "rating": "9.5",
+    "reviews": "57",
+    "class": "2-star hotel",
+    "avgPrice": "$127",
+    "driveTime": "15 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=2036%20S%20Avenue%203%20E%2C%20Yuma%2C%20AZ%2085365&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 127,
+    "hotelClass": "2star",
+    "driveMinutes": 15,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$255.60"
+      },
+      {
+        "month": "Feb",
+        "price": "$275.00"
+      },
+      {
+        "month": "Mar",
+        "price": "$218.35"
+      },
+      {
+        "month": "Apr",
+        "price": "$241.80"
+      },
+      {
+        "month": "May",
+        "price": "$126.97"
+      },
+      {
+        "month": "Jun",
+        "price": "$160.49"
+      },
+      {
+        "month": "Jul",
+        "price": "$160.49"
+      },
+      {
+        "month": "Aug",
+        "price": "$160.49"
+      },
+      {
+        "month": "Sep",
+        "price": "$194.00"
+      },
+      {
+        "month": "Oct",
+        "price": "$247.64"
+      },
+      {
+        "month": "Nov",
+        "price": "$142.43"
+      },
+      {
+        "month": "Dec",
+        "price": "$144.63"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Casa Sunrise, Large Home, Minutes From Airport, Yrmc, Mexico Borders",
+    "image": "https://lh3.googleusercontent.com/proxy/Sq82ufZozL5svzaYST7hIo_hoF7ikRx0X2UeTifaMSRIlJlXlUhKK04kOrjAPnt7roMbiIdTDFF_GbK9A4oaFDt6QLTNNMrOYr4KedFPDBrN3EMiufaoGEOhULa_PG2dDuUS2A804juTyFqJbzLFTInTm5OX8A=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Casa-Sunrise,Large-Home,Minutes-From-Airport,Yrmc,Mexico-Borders,Yuma-p60815-h10112140-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "1563 East Sunrise Lane, Yuma, AZ",
+    "rating": "9.1",
+    "reviews": "15",
+    "class": "N/A",
+    "avgPrice": "$191",
+    "driveTime": "19 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=1563%20East%20Sunrise%20Lane%2C%20Yuma%2C%20AZ&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 191,
+    "hotelClass": "",
+    "driveMinutes": 19,
+    "monthlyPrices": []
+  },
+  {
+    "id": 5,
+    "name": "Comfort Inn and Suites Yuma I-8",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMWPbDN2jJlIkh6Y40NCShwlg_Ooi4jRWoa0VEL=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Comfort-Inn-and-Suites-Yuma-I-8,Yuma-p60815-h202893-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "10553 S Fortuna Rd, Yuma, AZ 85367",
+    "rating": "8.6",
+    "reviews": "573",
+    "class": "2-star hotel",
+    "avgPrice": "$78",
+    "driveTime": "22 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=10553%20S%20Fortuna%20Rd%2C%20Yuma%2C%20AZ%2085367&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 78,
+    "hotelClass": "2star",
+    "driveMinutes": 22,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$106.90"
+      },
+      {
+        "month": "Feb",
+        "price": "$135.79"
+      },
+      {
+        "month": "Mar",
+        "price": "$140.91"
+      },
+      {
+        "month": "Apr",
+        "price": "$107.97"
+      },
+      {
+        "month": "May",
+        "price": "$97.48"
+      },
+      {
+        "month": "Jun",
+        "price": "$100.36"
+      },
+      {
+        "month": "Jul",
+        "price": "$91.42"
+      },
+      {
+        "month": "Aug",
+        "price": "$138.81"
+      },
+      {
+        "month": "Sep",
+        "price": "$105.18"
+      },
+      {
+        "month": "Oct",
+        "price": "$126.96"
+      },
+      {
+        "month": "Nov",
+        "price": "$98.98"
+      },
+      {
+        "month": "Dec",
+        "price": "$77.95"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Days Inn by Wyndham Yuma",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nplHBBpt-Kwn5YuxATJ6IoTh66AtKxnTNAPx9yw6mOgO4sRp_66Tp5FlVRJZt05UBURRNFGzgjm1gxf2goo1PrGL3lGhWmqs9h8JO5Fm41je2Ok7VOqejse6kuFV-NlAyRhKs2-=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Days-Inn-by-Wyndham-Yuma,Yuma-p60815-h19642-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "1671 E 16th St, Yuma, AZ 85365",
+    "rating": "7.5",
+    "reviews": "735",
+    "class": "2-star hotel",
+    "avgPrice": "$65",
+    "driveTime": "13 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=1671%20E%2016th%20St%2C%20Yuma%2C%20AZ%2085365&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 65,
+    "hotelClass": "2star",
+    "driveMinutes": 13,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$99.37"
+      },
+      {
+        "month": "Feb",
+        "price": "$93.40"
+      },
+      {
+        "month": "Mar",
+        "price": "$91.42"
+      },
+      {
+        "month": "Apr",
+        "price": "$80.49"
+      },
+      {
+        "month": "May",
+        "price": "$70.49"
+      },
+      {
+        "month": "Jun",
+        "price": "$64.51"
+      },
+      {
+        "month": "Jul",
+        "price": "$78.83"
+      },
+      {
+        "month": "Aug",
+        "price": "$83.93"
+      },
+      {
+        "month": "Sep",
+        "price": "$64.64"
+      },
+      {
+        "month": "Oct",
+        "price": "$81.00"
+      },
+      {
+        "month": "Nov",
+        "price": "$98.76"
+      },
+      {
+        "month": "Dec",
+        "price": "$73.90"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "El Rancho Motel",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nplQIn71IFUmsmIAS8qPS8Ezz3aVbP_QKgXCMxo1L0MGLWiDFig0EsBXOhrtz0OG4GFFMz9GJjVTZedsZtkdqC3jV2lk1M1YSePFwd7gmq7dKPNOPF_4A8zMHHb9igf3Yld7jQN=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/El-Rancho-Motel,Yuma-p60815-h270290-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "2201 S 4th Ave, Yuma, AZ 85364",
+    "rating": "7.7",
+    "reviews": "19",
+    "class": "2-star hotel",
+    "avgPrice": "$60",
+    "driveTime": "16 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=2201%20S%204th%20Ave%2C%20Yuma%2C%20AZ%2085364&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 60,
+    "hotelClass": "2star",
+    "driveMinutes": 16,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$60.18"
+      },
+      {
+        "month": "Feb",
+        "price": "$71.21"
+      },
+      {
+        "month": "Mar",
+        "price": "$73.31"
+      },
+      {
+        "month": "Apr",
+        "price": "$60.46"
+      },
+      {
+        "month": "May",
+        "price": "$72.55"
+      },
+      {
+        "month": "Jun",
+        "price": "$67.46"
+      },
+      {
+        "month": "Jul",
+        "price": "$62.37"
+      },
+      {
+        "month": "Aug",
+        "price": "$64.59"
+      },
+      {
+        "month": "Sep",
+        "price": "$63.62"
+      },
+      {
+        "month": "Oct",
+        "price": "$63.62"
+      },
+      {
+        "month": "Nov",
+        "price": "$63.62"
+      },
+      {
+        "month": "Dec",
+        "price": "$63.62"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Fairfield Inn & Suites by Marriott Yuma",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipNxZfoTMn2j6XzdVNL4R1wbHu59OOwsoshw9kPx=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Fairfield-Inn--Suites-by-Marriott-Yuma,Yuma-p60815-h60785-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "1801 S Sunridge Dr, Yuma, AZ 85365",
+    "rating": "9.1",
+    "reviews": "78",
+    "class": "2-star hotel",
+    "avgPrice": "$49",
+    "driveTime": "14 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=1801%20S%20Sunridge%20Dr%2C%20Yuma%2C%20AZ%2085365&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 49,
+    "hotelClass": "2star",
+    "driveMinutes": 14,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$208.66"
+      },
+      {
+        "month": "Feb",
+        "price": "$154.97"
+      },
+      {
+        "month": "Mar",
+        "price": "$274.91"
+      },
+      {
+        "month": "Apr",
+        "price": "$181.66"
+      },
+      {
+        "month": "May",
+        "price": "$113.95"
+      },
+      {
+        "month": "Jun",
+        "price": "$142.42"
+      },
+      {
+        "month": "Jul",
+        "price": "$125.95"
+      },
+      {
+        "month": "Aug",
+        "price": "$48.98"
+      },
+      {
+        "month": "Sep",
+        "price": "$158.95"
+      },
+      {
+        "month": "Oct",
+        "price": "$181.07"
+      },
+      {
+        "month": "Nov",
+        "price": "$192.61"
+      },
+      {
+        "month": "Dec",
+        "price": "$121.07"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Four Points by Sheraton Yuma",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipN2kN2sccpcs2FfpczpPx9Ij_YXtFwIKgEe4xG6=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Four-Points-by-Sheraton-Yuma,Yuma-p60815-h7621508-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "2030 S Avenue 3 E, Yuma, AZ 85365",
+    "rating": "9.4",
+    "reviews": "34",
+    "class": "3-star hotel",
+    "avgPrice": "$123",
+    "driveTime": "15 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=2030%20S%20Avenue%203%20E%2C%20Yuma%2C%20AZ%2085365&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 123,
+    "hotelClass": "3star",
+    "driveMinutes": 15,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$162.45"
+      },
+      {
+        "month": "Feb",
+        "price": "$222.48"
+      },
+      {
+        "month": "Mar",
+        "price": "$172.97"
+      },
+      {
+        "month": "Apr",
+        "price": "$191.01"
+      },
+      {
+        "month": "May",
+        "price": "$129.98"
+      },
+      {
+        "month": "Jun",
+        "price": "$124.00"
+      },
+      {
+        "month": "Jul",
+        "price": "$149.06"
+      },
+      {
+        "month": "Aug",
+        "price": "$122.56"
+      },
+      {
+        "month": "Sep",
+        "price": "$164.51"
+      },
+      {
+        "month": "Oct",
+        "price": "$252.50"
+      },
+      {
+        "month": "Nov",
+        "price": "$211.00"
+      },
+      {
+        "month": "Dec",
+        "price": "$142.42"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Hacienda Motel",
+    "image": "https://lh3.googleusercontent.com/proxy/dUAGVvRDnmbVwsb5Xw92I7VhUuAfocggn6NKnbZMGjueovqF8qa2TdqkVAOhpztKOmZHSnREpZDRlOfavLnN-5rOP6s2nVdwj5PtJUM0VhAsyxXpOnDL_C1vnYuh8xOV_PIuMbSkBQzkEYs7KiFFM2Dbr0HZCw=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Hacienda-Motel,Yuma-p60815-h270316-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "2150 S 4th Ave, Yuma, AZ 85364-6402",
+    "rating": "8.1",
+    "reviews": "463",
+    "class": "2-star hotel",
+    "avgPrice": "$72",
+    "driveTime": "16 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=2150%20S%204th%20Ave%2C%20Yuma%2C%20AZ%2085364-6402&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 72,
+    "hotelClass": "2star",
+    "driveMinutes": 16,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$82.82"
+      },
+      {
+        "month": "Feb",
+        "price": "$80.05"
+      },
+      {
+        "month": "Mar",
+        "price": "$77.29"
+      },
+      {
+        "month": "Apr",
+        "price": "$77.29"
+      },
+      {
+        "month": "May",
+        "price": "$71.78"
+      },
+      {
+        "month": "Jun",
+        "price": "$71.78"
+      },
+      {
+        "month": "Jul",
+        "price": "$77.29"
+      },
+      {
+        "month": "Aug",
+        "price": "$77.29"
+      },
+      {
+        "month": "Sep",
+        "price": "$77.29"
+      },
+      {
+        "month": "Oct",
+        "price": "$82.82"
+      },
+      {
+        "month": "Nov",
+        "price": "$82.81"
+      },
+      {
+        "month": "Dec",
+        "price": "$82.81"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Hampton Inn & Suites Yuma",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipNtrpHiM3OtlEEm0yBJyQxohRJ129FSUYJJVVn8=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Hampton-Inn--Suites-Yuma,Yuma-p60815-h129800-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "1600 E 16th St, Yuma, AZ 85365",
+    "rating": "9",
+    "reviews": "199",
+    "class": "3-star hotel",
+    "avgPrice": "$113",
+    "driveTime": "13 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=1600%20E%2016th%20St%2C%20Yuma%2C%20AZ%2085365&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 113,
+    "hotelClass": "3star",
+    "driveMinutes": 13,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$162.77"
+      },
+      {
+        "month": "Feb",
+        "price": "$166.98"
+      },
+      {
+        "month": "Mar",
+        "price": "$154.15"
+      },
+      {
+        "month": "Apr",
+        "price": "$146.91"
+      },
+      {
+        "month": "May",
+        "price": "$168.91"
+      },
+      {
+        "month": "Jun",
+        "price": "$130.44"
+      },
+      {
+        "month": "Jul",
+        "price": "$127.95"
+      },
+      {
+        "month": "Aug",
+        "price": "$153.47"
+      },
+      {
+        "month": "Sep",
+        "price": "$143.00"
+      },
+      {
+        "month": "Oct",
+        "price": "$179.50"
+      },
+      {
+        "month": "Nov",
+        "price": "$113.30"
+      },
+      {
+        "month": "Dec",
+        "price": "$131.39"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Hilton Garden Inn Yuma Pivot Point",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMJrloJjxj7wwscy0isR7QOmh0UWWWuJCBMHSi5=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Hilton-Garden-Inn-Yuma-Pivot-Point,Yuma-p60815-h191862-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "310 N Madison Ave, Yuma, AZ 85364",
+    "rating": "8.4",
+    "reviews": "240",
+    "class": "3-star hotel",
+    "avgPrice": "$149",
+    "driveTime": "13 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=310%20N%20Madison%20Ave%2C%20Yuma%2C%20AZ%2085364&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 149,
+    "hotelClass": "3star",
+    "driveMinutes": 13,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$149.21"
+      },
+      {
+        "month": "Feb",
+        "price": "$386.38"
+      },
+      {
+        "month": "Mar",
+        "price": "$161.47"
+      },
+      {
+        "month": "Apr",
+        "price": "$207.33"
+      },
+      {
+        "month": "May",
+        "price": "$170.98"
+      },
+      {
+        "month": "Jun",
+        "price": "$139.84"
+      },
+      {
+        "month": "Jul",
+        "price": "$157.23"
+      },
+      {
+        "month": "Aug",
+        "price": "$152.50"
+      },
+      {
+        "month": "Sep",
+        "price": "$166.90"
+      },
+      {
+        "month": "Oct",
+        "price": "$189.13"
+      },
+      {
+        "month": "Nov",
+        "price": "$119.98"
+      },
+      {
+        "month": "Dec",
+        "price": "$129.56"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Historic Coronado Motor Hotel By OYO",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipP2sWONQldovQuitnPlyNGdH68exkPD7VB3U5D0=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Historic-Coronado-Motor-Hotel-By-OYO,Yuma-p60815-h27739-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "233 S 4th Ave, Yuma, AZ 85364",
+    "rating": "7.9",
+    "reviews": "666",
+    "class": "3-star hotel",
+    "avgPrice": "$91",
+    "driveTime": "11 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=233%20S%204th%20Ave%2C%20Yuma%2C%20AZ%2085364&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 91,
+    "hotelClass": "3star",
+    "driveMinutes": 11,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$91.01"
+      },
+      {
+        "month": "Feb",
+        "price": "$75.98"
+      },
+      {
+        "month": "Mar",
+        "price": "$74.94"
+      },
+      {
+        "month": "Apr",
+        "price": "$65.21"
+      },
+      {
+        "month": "May",
+        "price": "$83.09"
+      },
+      {
+        "month": "Jun",
+        "price": "$60.97"
+      },
+      {
+        "month": "Jul",
+        "price": "$89.00"
+      },
+      {
+        "month": "Aug",
+        "price": "$107.78"
+      },
+      {
+        "month": "Sep",
+        "price": "$92.91"
+      },
+      {
+        "month": "Oct",
+        "price": "$58.95"
+      },
+      {
+        "month": "Nov",
+        "price": "$82.28"
+      },
+      {
+        "month": "Dec",
+        "price": "$64.91"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Holiday Inn Express & Suites Yuma",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPjVxTxRlVJUyHhYZ8MDZJmywgxSlitEzDQpOwg=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Holiday-Inn-Express--Suites-Yuma,Yuma-p60815-h178064-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "2044 S Avenue 3 E, Yuma, AZ 85365",
+    "rating": "9.1",
+    "reviews": "262",
+    "class": "3-star hotel",
+    "avgPrice": "$167",
+    "driveTime": "15 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=2044%20S%20Avenue%203%20E%2C%20Yuma%2C%20AZ%2085365&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 167,
+    "hotelClass": "3star",
+    "driveMinutes": 15,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$167.22"
+      },
+      {
+        "month": "Feb",
+        "price": "$217.92"
+      },
+      {
+        "month": "Mar",
+        "price": "$154.90"
+      },
+      {
+        "month": "Apr",
+        "price": "$150.97"
+      },
+      {
+        "month": "May",
+        "price": "$138.25"
+      },
+      {
+        "month": "Jun",
+        "price": "$155.05"
+      },
+      {
+        "month": "Jul",
+        "price": "$114.83"
+      },
+      {
+        "month": "Aug",
+        "price": "$158.00"
+      },
+      {
+        "month": "Sep",
+        "price": "$129.99"
+      },
+      {
+        "month": "Oct",
+        "price": "$164.99"
+      },
+      {
+        "month": "Nov",
+        "price": "$112.91"
+      },
+      {
+        "month": "Dec",
+        "price": "$165.05"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Holiday Inn Yuma",
+    "image": "https://digital.ihg.com/is/image/ihg/holiday-inn-yuma-6562842362-4x3?wid=733",
+    "url": "https://www.kayak.com/hotels/Holiday-Inn-Yuma,Yuma-p60815-h129047-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "1901 E. 18th Street, Yuma, AZ 85365",
+    "rating": "9.2",
+    "reviews": "185",
+    "class": "3-star hotel",
+    "avgPrice": "$151",
+    "driveTime": "15 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=1901%20E.%2018th%20Street%2C%20Yuma%2C%20AZ%2085365&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 151,
+    "hotelClass": "3star",
+    "driveMinutes": 15,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$150.98"
+      },
+      {
+        "month": "Feb",
+        "price": "$171.49"
+      },
+      {
+        "month": "Mar",
+        "price": "$131.39"
+      },
+      {
+        "month": "Apr",
+        "price": "$154.92"
+      },
+      {
+        "month": "May",
+        "price": "$124.48"
+      },
+      {
+        "month": "Jun",
+        "price": "$129.99"
+      },
+      {
+        "month": "Jul",
+        "price": "$144.98"
+      },
+      {
+        "month": "Aug",
+        "price": "$160.38"
+      },
+      {
+        "month": "Sep",
+        "price": "$308.05"
+      },
+      {
+        "month": "Oct",
+        "price": "$140.69"
+      },
+      {
+        "month": "Nov",
+        "price": "$126.79"
+      },
+      {
+        "month": "Dec",
+        "price": "$129.48"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Home2 Suites by Hilton Yuma Pivot Point",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMvy7MgO4cJIBHRPAfLFpEcYAMKxHqvcBjdLb05=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Home2-Suites-by-Hilton-Yuma-Pivot-Point,Yuma-p60815-h1070197647-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "155 N Madison Ave, Yuma, AZ 85364",
+    "rating": "9",
+    "reviews": "47",
+    "class": "3-star hotel",
+    "avgPrice": "$220",
+    "driveTime": "12 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=155%20N%20Madison%20Ave%2C%20Yuma%2C%20AZ%2085364&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 220,
+    "hotelClass": "3star",
+    "driveMinutes": 12,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$219.96"
+      },
+      {
+        "month": "Feb",
+        "price": "$171.98"
+      },
+      {
+        "month": "Mar",
+        "price": "$188.45"
+      },
+      {
+        "month": "Apr",
+        "price": "$159.96"
+      },
+      {
+        "month": "May",
+        "price": "$168.98"
+      },
+      {
+        "month": "Jun",
+        "price": "$230.47"
+      },
+      {
+        "month": "Jul",
+        "price": "$169.35"
+      },
+      {
+        "month": "Aug",
+        "price": "$188.47"
+      },
+      {
+        "month": "Sep",
+        "price": "$171.93"
+      },
+      {
+        "month": "Oct",
+        "price": "$184.49"
+      },
+      {
+        "month": "Nov",
+        "price": "$197.92"
+      },
+      {
+        "month": "Dec",
+        "price": "$147.76"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Homewood Suites by Hilton Yuma",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipP6ePt0dTt_RAnmOoA7b4LlyVgA7u6H562LKY8M=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Homewood-Suites-by-Hilton-Yuma,Yuma-p60815-h208083-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "1955 E 16th St, Yuma, AZ 85365",
+    "rating": "8.8",
+    "reviews": "221",
+    "class": "3-star hotel",
+    "avgPrice": "$242",
+    "driveTime": "15 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=1955%20E%2016th%20St%2C%20Yuma%2C%20AZ%2085365&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 242,
+    "hotelClass": "3star",
+    "driveMinutes": 15,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$242.06"
+      },
+      {
+        "month": "Feb",
+        "price": "$216.40"
+      },
+      {
+        "month": "Mar",
+        "price": "$144.94"
+      },
+      {
+        "month": "Apr",
+        "price": "$141.97"
+      },
+      {
+        "month": "May",
+        "price": "$110.41"
+      },
+      {
+        "month": "Jun",
+        "price": "$113.94"
+      },
+      {
+        "month": "Jul",
+        "price": "$95.91"
+      },
+      {
+        "month": "Aug",
+        "price": "$96.96"
+      },
+      {
+        "month": "Sep",
+        "price": "$172.91"
+      },
+      {
+        "month": "Oct",
+        "price": "$146.18"
+      },
+      {
+        "month": "Nov",
+        "price": "$232.97"
+      },
+      {
+        "month": "Dec",
+        "price": "$121.42"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Howard Johnson by Wyndham Yuma",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipM8RbSLS-l2GwtTvdge8dUaCcf0Dl24-mhtqaig=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Howard-Johnson-by-Wyndham-Yuma,Yuma-p60815-h9260-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "3181 S 4th Ave, Yuma, AZ 85364",
+    "rating": "7.7",
+    "reviews": "2186",
+    "class": "2-star hotel",
+    "avgPrice": "$63",
+    "driveTime": "19 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=3181%20S%204th%20Ave%2C%20Yuma%2C%20AZ%2085364&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 63,
+    "hotelClass": "2star",
+    "driveMinutes": 19,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$71.84"
+      },
+      {
+        "month": "Feb",
+        "price": "$83.53"
+      },
+      {
+        "month": "Mar",
+        "price": "$62.97"
+      },
+      {
+        "month": "Apr",
+        "price": "$76.18"
+      },
+      {
+        "month": "May",
+        "price": "$63.44"
+      },
+      {
+        "month": "Jun",
+        "price": "$64.76"
+      },
+      {
+        "month": "Jul",
+        "price": "$63.01"
+      },
+      {
+        "month": "Aug",
+        "price": "$122.01"
+      },
+      {
+        "month": "Sep",
+        "price": "$87.22"
+      },
+      {
+        "month": "Oct",
+        "price": "$74.98"
+      },
+      {
+        "month": "Nov",
+        "price": "$65.43"
+      },
+      {
+        "month": "Dec",
+        "price": "$62.80"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Knights Inn & Suites Yuma",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrsM3if17DV1K-kF6f2za6Qagsoui1z66r_IJMgog0f8ZI13yo6KoJRe6w0wtUPN3Nx88FcdavPSmUaByE7CQuvaumAKaBd1VsQ1prbDv9PSl8XwL9gO_Ppla1xUD4gW6u-WHVM_A=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Knights-Inn--Suites-Yuma,Yuma-p60815-h39769-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "2730 S 4th Ave, Yuma, AZ 85364",
+    "rating": "5.6",
+    "reviews": "692",
+    "class": "2-star hotel",
+    "avgPrice": "$58",
+    "driveTime": "13 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=2730%20S%204th%20Ave%2C%20Yuma%2C%20AZ%2085364&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 58,
+    "hotelClass": "2star",
+    "driveMinutes": 13,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$71.21"
+      },
+      {
+        "month": "Feb",
+        "price": "$65.28"
+      },
+      {
+        "month": "Mar",
+        "price": "$71.21"
+      },
+      {
+        "month": "Apr",
+        "price": "$71.21"
+      },
+      {
+        "month": "May",
+        "price": "$63.93"
+      },
+      {
+        "month": "Jun",
+        "price": "$57.99"
+      },
+      {
+        "month": "Jul",
+        "price": "$65.48"
+      },
+      {
+        "month": "Aug",
+        "price": "$58.91"
+      },
+      {
+        "month": "Sep",
+        "price": "$67.98"
+      },
+      {
+        "month": "Oct",
+        "price": "$59.99"
+      },
+      {
+        "month": "Nov",
+        "price": "$59.98"
+      },
+      {
+        "month": "Dec",
+        "price": "$71.21"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "La Fuente Inn & Suites",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipP8HvuRihylr8Y53E6znYxyiymxdXsXBxPoHOOZ=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/La-Fuente-Inn--Suites,Yuma-p60815-h31136-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "1513 E 16th St, Yuma, AZ 85365",
+    "rating": "8.9",
+    "reviews": "1554",
+    "class": "3-star hotel",
+    "avgPrice": "$102",
+    "driveTime": "15 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=1513%20E%2016th%20St%2C%20Yuma%2C%20AZ%2085365&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 102,
+    "hotelClass": "3star",
+    "driveMinutes": 15,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$151.23"
+      },
+      {
+        "month": "Feb",
+        "price": "$138.11"
+      },
+      {
+        "month": "Mar",
+        "price": "$138.11"
+      },
+      {
+        "month": "Apr",
+        "price": "$131.39"
+      },
+      {
+        "month": "May",
+        "price": "$111.67"
+      },
+      {
+        "month": "Jun",
+        "price": "$108.31"
+      },
+      {
+        "month": "Jul",
+        "price": "$102.29"
+      },
+      {
+        "month": "Aug",
+        "price": "$120.35"
+      },
+      {
+        "month": "Sep",
+        "price": "$121.06"
+      },
+      {
+        "month": "Oct",
+        "price": "$130.45"
+      },
+      {
+        "month": "Nov",
+        "price": "$107.65"
+      },
+      {
+        "month": "Dec",
+        "price": "$106.95"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "La Quinta Inn & Suites by Wyndham Yuma",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMmXDNGZKNJX71-ve0pbqrMVqro4UzvYmsAAuFR=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/La-Quinta-Inn--Suites-by-Wyndham-Yuma,Yuma-p60815-h1070823116-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "770 S Castle Dome Ave, Yuma, AZ 85365",
+    "rating": "8.9",
+    "reviews": "82",
+    "class": "3-star hotel",
+    "avgPrice": "$120",
+    "driveTime": "13 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=770%20S%20Castle%20Dome%20Ave%2C%20Yuma%2C%20AZ%2085365&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 120,
+    "hotelClass": "3star",
+    "driveMinutes": 13,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$130.45"
+      },
+      {
+        "month": "Feb",
+        "price": "$177.37"
+      },
+      {
+        "month": "Mar",
+        "price": "$139.84"
+      },
+      {
+        "month": "Apr",
+        "price": "$130.45"
+      },
+      {
+        "month": "May",
+        "price": "$125.76"
+      },
+      {
+        "month": "Jun",
+        "price": "$121.06"
+      },
+      {
+        "month": "Jul",
+        "price": "$128.18"
+      },
+      {
+        "month": "Aug",
+        "price": "$308.75"
+      },
+      {
+        "month": "Sep",
+        "price": "$150.85"
+      },
+      {
+        "month": "Oct",
+        "price": "$138.13"
+      },
+      {
+        "month": "Nov",
+        "price": "$119.83"
+      },
+      {
+        "month": "Dec",
+        "price": "$129.43"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Microtel Inn & Suites by Wyndham Wellton",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipNdl29mHoCoj_-pNfqqwQZnbFhBTdr0IcBNje0U=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Microtel-Inn--Suites-by-Wyndham-Wellton,Wellton-p2600909-h162014-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "28784 Commerce Way, Wellton, AZ 85356",
+    "rating": "8.2",
+    "reviews": "272",
+    "class": "2-star hotel",
+    "avgPrice": "$64",
+    "driveTime": "39 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=28784%20Commerce%20Way%2C%20Wellton%2C%20AZ%2085356&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 64,
+    "hotelClass": "2star",
+    "driveMinutes": 39,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$83.60"
+      },
+      {
+        "month": "Feb",
+        "price": "$146.69"
+      },
+      {
+        "month": "Mar",
+        "price": "$110.83"
+      },
+      {
+        "month": "Apr",
+        "price": "$66.52"
+      },
+      {
+        "month": "May",
+        "price": "$78.29"
+      },
+      {
+        "month": "Jun",
+        "price": "$63.89"
+      },
+      {
+        "month": "Jul",
+        "price": "$73.97"
+      },
+      {
+        "month": "Aug",
+        "price": "$71.63"
+      },
+      {
+        "month": "Sep",
+        "price": "$114.30"
+      },
+      {
+        "month": "Oct",
+        "price": "$72.95"
+      },
+      {
+        "month": "Nov",
+        "price": "$63.91"
+      },
+      {
+        "month": "Dec",
+        "price": "$104.32"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Motel 6 Yuma East",
+    "image": "https://lh3.googleusercontent.com/proxy/lQKN0XxZ6BdyCpJTKU9JlUTj_sSHJDKg2zGmUYQEqSUFZslMCsPF6b9DmenJGpRNpe2gEDQGDnm8ZwsvGpsdvEDoKZ6OR-OLYokZ9UX1UM228JjDkcEPuhzOIbwh4rx2F_SAUlpcejSTbqD2s8USor-OtuwbfcI=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Motel-6-Yuma-East,Yuma-p60815-h108486-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "1445 E 16th St, Yuma, AZ 85365\n",
+    "rating": "6.9",
+    "reviews": "946",
+    "class": "2-star hotel",
+    "avgPrice": "$53",
+    "driveTime": "16 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=1445%20E%2016th%20St%2C%20Yuma%2C%20AZ%2085365%0A&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 53,
+    "hotelClass": "2star",
+    "driveMinutes": 16,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$56.99"
+      },
+      {
+        "month": "Feb",
+        "price": "$55.96"
+      },
+      {
+        "month": "Mar",
+        "price": "$56.97"
+      },
+      {
+        "month": "Apr",
+        "price": "$56.98"
+      },
+      {
+        "month": "May",
+        "price": "$56.98"
+      },
+      {
+        "month": "Jun",
+        "price": "$58.84"
+      },
+      {
+        "month": "Jul",
+        "price": "$57.97"
+      },
+      {
+        "month": "Aug",
+        "price": "$53.49"
+      },
+      {
+        "month": "Sep",
+        "price": "$55.11"
+      },
+      {
+        "month": "Oct",
+        "price": "$53.49"
+      },
+      {
+        "month": "Nov",
+        "price": "$60.44"
+      },
+      {
+        "month": "Dec",
+        "price": "$59.05"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "OYO Hotel Yuma Az Desert Grove",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipN5pxMsJhX4hvN_Mth6i5n9_YjgFFYYKOtZHGwn=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/OYO-Hotel-Yuma-Az-Desert-Grove,Yuma-p60815-h78718-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "3500 S 4th Ave, Yuma, AZ 85365",
+    "rating": "6.8",
+    "reviews": "154",
+    "class": "3-star hotel",
+    "avgPrice": "$74",
+    "driveTime": "20 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=3500%20S%204th%20Ave%2C%20Yuma%2C%20AZ%2085365&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 74,
+    "hotelClass": "3star",
+    "driveMinutes": 20,
+    "monthlyPrices": []
+  },
+  {
+    "id": 25,
+    "name": "OYO Hotel Yuma Az - I-8 Us-95",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipO_fM2v6gJWLypRV_5g6B4R4ji6x11Z2aOZnTCp=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/OYO-Hotel-Yuma-Az,I-8-Us-95,Yuma-p60815-h621556-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "2655 S 4th Ave, Yuma, AZ 85364",
+    "rating": "4.7",
+    "reviews": "263",
+    "class": "2-star hotel",
+    "avgPrice": "$48",
+    "driveTime": "17 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=2655%20S%204th%20Ave%2C%20Yuma%2C%20AZ%2085364&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 48,
+    "hotelClass": "2star",
+    "driveMinutes": 17,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$58.06"
+      },
+      {
+        "month": "Feb",
+        "price": "$58.06"
+      },
+      {
+        "month": "Mar",
+        "price": "$58.06"
+      },
+      {
+        "month": "Apr",
+        "price": "$58.06"
+      },
+      {
+        "month": "May",
+        "price": "$52.91"
+      },
+      {
+        "month": "Jun",
+        "price": "$47.91"
+      },
+      {
+        "month": "Jul",
+        "price": "$72.25"
+      },
+      {
+        "month": "Aug",
+        "price": "$52.64"
+      },
+      {
+        "month": "Sep",
+        "price": "$58.18"
+      },
+      {
+        "month": "Oct",
+        "price": "$59.55"
+      },
+      {
+        "month": "Nov",
+        "price": "$70.94"
+      },
+      {
+        "month": "Dec",
+        "price": "$70.94"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Quality Inn and Suites Yuma",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOgkKA2hkCCcndXPNR6DrOlws2ZtA20Ifxb-LpJ=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Quality-Inn-and-Suites-Yuma,Yuma-p60815-h23233-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "1691 Riley Ave, Yuma, AZ 85365",
+    "rating": "7.3",
+    "reviews": "340",
+    "class": "2-star hotel",
+    "avgPrice": "$54",
+    "driveTime": "15 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=1691%20Riley%20Ave%2C%20Yuma%2C%20AZ%2085365&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 54,
+    "hotelClass": "2star",
+    "driveMinutes": 15,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$87.58"
+      },
+      {
+        "month": "Feb",
+        "price": "$93.50"
+      },
+      {
+        "month": "Mar",
+        "price": "$83.47"
+      },
+      {
+        "month": "Apr",
+        "price": "$96.47"
+      },
+      {
+        "month": "May",
+        "price": "$80.46"
+      },
+      {
+        "month": "Jun",
+        "price": "$68.99"
+      },
+      {
+        "month": "Jul",
+        "price": "$63.80"
+      },
+      {
+        "month": "Aug",
+        "price": "$54.12"
+      },
+      {
+        "month": "Sep",
+        "price": "$70.77"
+      },
+      {
+        "month": "Oct",
+        "price": "$86.95"
+      },
+      {
+        "month": "Nov",
+        "price": "$72.97"
+      },
+      {
+        "month": "Dec",
+        "price": "$74.54"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Radisson Hotel Yuma",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipNR1pUm5IwWN-wre0aqz9VkzMnUC3TRa1W7yfHp=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Radisson-Hotel-Yuma,Yuma-p60815-h286766-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "1501 S Redondo Center Dr, Yuma, AZ 85365",
+    "rating": "8.9",
+    "reviews": "758",
+    "class": "3-star hotel",
+    "avgPrice": "$114",
+    "driveTime": "14 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=1501%20S%20Redondo%20Center%20Dr%2C%20Yuma%2C%20AZ%2085365&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 114,
+    "hotelClass": "3star",
+    "driveMinutes": 14,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$179.99"
+      },
+      {
+        "month": "Feb",
+        "price": "$196.92"
+      },
+      {
+        "month": "Mar",
+        "price": "$163.30"
+      },
+      {
+        "month": "Apr",
+        "price": "$191.94"
+      },
+      {
+        "month": "May",
+        "price": "$199.82"
+      },
+      {
+        "month": "Jun",
+        "price": "$113.97"
+      },
+      {
+        "month": "Jul",
+        "price": "$136.08"
+      },
+      {
+        "month": "Aug",
+        "price": "$127.97"
+      },
+      {
+        "month": "Sep",
+        "price": "$263.34"
+      },
+      {
+        "month": "Oct",
+        "price": "$187.38"
+      },
+      {
+        "month": "Nov",
+        "price": "$123.71"
+      },
+      {
+        "month": "Dec",
+        "price": "$145.73"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Regalodge Motel",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipNz96Ld7fUcrVGTo14N9beN39ug5ViwvZdtc_I5=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Regalodge-Motel,Yuma-p60815-h88331-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "344 S 4th Ave, Yuma, AZ 85364",
+    "rating": "6.4",
+    "reviews": "143",
+    "class": "1-star hotel",
+    "avgPrice": "$54",
+    "driveTime": "11 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=344%20S%204th%20Ave%2C%20Yuma%2C%20AZ%2085364&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 54,
+    "hotelClass": "1star",
+    "driveMinutes": 11,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$70.80"
+      },
+      {
+        "month": "Feb",
+        "price": "$71.21"
+      },
+      {
+        "month": "Mar",
+        "price": "$64.90"
+      },
+      {
+        "month": "Apr",
+        "price": "$53.53"
+      },
+      {
+        "month": "May",
+        "price": "$60.17"
+      },
+      {
+        "month": "Jun",
+        "price": "$55.75"
+      },
+      {
+        "month": "Jul",
+        "price": "$58.24"
+      },
+      {
+        "month": "Aug",
+        "price": "$58.24"
+      },
+      {
+        "month": "Sep",
+        "price": "$60.73"
+      },
+      {
+        "month": "Oct",
+        "price": "$88.33"
+      },
+      {
+        "month": "Nov",
+        "price": "$88.33"
+      },
+      {
+        "month": "Dec",
+        "price": "$88.33"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Shilo Inn Yuma",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOAGJEKIw-ysZ8jOZ3Nla240xd0T0hSjkP7n89Q=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Shilo-Inn-Yuma,Yuma-p60815-h19194-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "1550 S Castle Dome Ave, Yuma, AZ 85365",
+    "rating": "7.6",
+    "reviews": "1267",
+    "class": "3-star hotel",
+    "avgPrice": "$69",
+    "driveTime": "12 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=1550%20S%20Castle%20Dome%20Ave%2C%20Yuma%2C%20AZ%2085365&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 69,
+    "hotelClass": "3star",
+    "driveMinutes": 12,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$72.23"
+      },
+      {
+        "month": "Feb",
+        "price": "$97.97"
+      },
+      {
+        "month": "Mar",
+        "price": "$85.95"
+      },
+      {
+        "month": "Apr",
+        "price": "$81.93"
+      },
+      {
+        "month": "May",
+        "price": "$81.97"
+      },
+      {
+        "month": "Jun",
+        "price": "$74.60"
+      },
+      {
+        "month": "Jul",
+        "price": "$86.83"
+      },
+      {
+        "month": "Aug",
+        "price": "$92.96"
+      },
+      {
+        "month": "Sep",
+        "price": "$68.98"
+      },
+      {
+        "month": "Oct",
+        "price": "$87.92"
+      },
+      {
+        "month": "Nov",
+        "price": "$73.98"
+      },
+      {
+        "month": "Dec",
+        "price": "$90.97"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "SpringHill Suites by Marriott Yuma",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMurV2PpaMfMbGBLU_tSMcmYG1CeTDov27zMRHh=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/SpringHill-Suites-by-Marriott-Yuma,Yuma-p60815-h43214-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "1825 E 18th St, Yuma, AZ 85365",
+    "rating": "8.7",
+    "reviews": "127",
+    "class": "3-star hotel",
+    "avgPrice": "$123",
+    "driveTime": "14 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=1825%20E%2018th%20St%2C%20Yuma%2C%20AZ%2085365&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 123,
+    "hotelClass": "3star",
+    "driveMinutes": 14,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$170.96"
+      },
+      {
+        "month": "Feb",
+        "price": "$180.93"
+      },
+      {
+        "month": "Mar",
+        "price": "$225.24"
+      },
+      {
+        "month": "Apr",
+        "price": "$274.93"
+      },
+      {
+        "month": "May",
+        "price": "$122.56"
+      },
+      {
+        "month": "Jun",
+        "price": "$130.46"
+      },
+      {
+        "month": "Jul",
+        "price": "$178.77"
+      },
+      {
+        "month": "Aug",
+        "price": "$156.09"
+      },
+      {
+        "month": "Sep",
+        "price": "$151.37"
+      },
+      {
+        "month": "Oct",
+        "price": "$230.75"
+      },
+      {
+        "month": "Nov",
+        "price": "$167.44"
+      },
+      {
+        "month": "Dec",
+        "price": "$154.48"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Super 8 by Wyndham Yuma",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOKVCnkSolgvUMlMKrKQuN5mTAYr8pLTCP-fimg=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Super-8-by-Wyndham-Yuma,Yuma-p60815-h60786-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "1688 Riley Ave, Yuma, AZ 85365",
+    "rating": "7.5",
+    "reviews": "751",
+    "class": "2-star hotel",
+    "avgPrice": "$55",
+    "driveTime": "15 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=1688%20Riley%20Ave%2C%20Yuma%2C%20AZ%2085365&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 55,
+    "hotelClass": "2star",
+    "driveMinutes": 15,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$80.49"
+      },
+      {
+        "month": "Feb",
+        "price": "$91.89"
+      },
+      {
+        "month": "Mar",
+        "price": "$85.95"
+      },
+      {
+        "month": "Apr",
+        "price": "$76.97"
+      },
+      {
+        "month": "May",
+        "price": "$78.94"
+      },
+      {
+        "month": "Jun",
+        "price": "$62.56"
+      },
+      {
+        "month": "Jul",
+        "price": "$54.95"
+      },
+      {
+        "month": "Aug",
+        "price": "$61.83"
+      },
+      {
+        "month": "Sep",
+        "price": "$55.72"
+      },
+      {
+        "month": "Oct",
+        "price": "$80.98"
+      },
+      {
+        "month": "Nov",
+        "price": "$75.51"
+      },
+      {
+        "month": "Dec",
+        "price": "$78.94"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "TownePlace Suites by Marriott Yuma",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipNe_bAjLznlmFInFb9AYlzHg_TfTMdi89nYiwOH=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/TownePlace-Suites-by-Marriott-Yuma,Yuma-p60815-h187043-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "1726 S Sunridge Dr, Yuma, AZ 85365",
+    "rating": "9.3",
+    "reviews": "17",
+    "class": "2-star hotel",
+    "avgPrice": "N/A",
+    "driveTime": "14 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=1726%20S%20Sunridge%20Dr%2C%20Yuma%2C%20AZ%2085365&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 0,
+    "hotelClass": "2star",
+    "driveMinutes": 14,
+    "monthlyPrices": []
+  },
+  {
+    "id": 33,
+    "name": "Travelodge by Wyndham Yuma",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOEH1A8i8EXAwOg9sE1LEkg-yd-8yB3qhkJhZs4=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Travelodge-by-Wyndham-Yuma,Yuma-p60815-h19651-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "1731 S Sunridge Dr, Yuma, AZ 85365",
+    "rating": "7.1",
+    "reviews": "340",
+    "class": "2-star hotel",
+    "avgPrice": "$77",
+    "driveTime": "14 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=1731%20S%20Sunridge%20Dr%2C%20Yuma%2C%20AZ%2085365&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 77,
+    "hotelClass": "2star",
+    "driveMinutes": 14,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$76.97"
+      },
+      {
+        "month": "Feb",
+        "price": "$84.95"
+      },
+      {
+        "month": "Mar",
+        "price": "$76.70"
+      },
+      {
+        "month": "Apr",
+        "price": "$81.38"
+      },
+      {
+        "month": "May",
+        "price": "$86.07"
+      },
+      {
+        "month": "Jun",
+        "price": "$81.43"
+      },
+      {
+        "month": "Jul",
+        "price": "$76.79"
+      },
+      {
+        "month": "Aug",
+        "price": "$109.91"
+      },
+      {
+        "month": "Sep",
+        "price": "$102.65"
+      },
+      {
+        "month": "Oct",
+        "price": "$95.39"
+      },
+      {
+        "month": "Nov",
+        "price": "$100.36"
+      },
+      {
+        "month": "Dec",
+        "price": "$76.99"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Wingate by Wyndham Yuma",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOsbEAn1B7WB--KrgtxAvGlvcz61UJ_uEXVsg1R=s1360-w1360-h1020-rw",
+    "url": "https://www.kayak.com/hotels/Wingate-by-Wyndham-Yuma,Yuma-p60815-h185093-details/2025-06-10/2025-06-11/2adults?psid=sNDkO1rJSK&pm=nightly-base",
+    "address": "1760 S Sunridge Dr, Yuma, AZ 85365",
+    "rating": "8.5",
+    "reviews": "743",
+    "class": "3-star hotel",
+    "avgPrice": "$143",
+    "driveTime": "14 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=1760%20S%20Sunridge%20Dr%2C%20Yuma%2C%20AZ%2085365&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 143,
+    "hotelClass": "3star",
+    "driveMinutes": 14,
+    "monthlyPrices": [
+      {
+        "month": "Jan",
+        "price": "$143.32"
+      },
+      {
+        "month": "Feb",
+        "price": "$149.22"
+      },
+      {
+        "month": "Mar",
+        "price": "$118.17"
+      },
+      {
+        "month": "Apr",
+        "price": "$116.90"
+      },
+      {
+        "month": "May",
+        "price": "$117.03"
+      },
+      {
+        "month": "Jun",
+        "price": "$107.93"
+      },
+      {
+        "month": "Jul",
+        "price": "$108.69"
+      },
+      {
+        "month": "Aug",
+        "price": "$89.98"
+      },
+      {
+        "month": "Sep",
+        "price": "$112.88"
+      },
+      {
+        "month": "Oct",
+        "price": "$134.54"
+      },
+      {
+        "month": "Nov",
+        "price": "$127.44"
+      },
+      {
+        "month": "Dec",
+        "price": "$92.17"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Hotel del Norte",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPbKJmDcsnl8Xx9BBAZTzbLxqtSHZH_w9wWCmS1=s1360-w1360-h1020-rw",
+    "url": "https://www.tripadvisor.com/Hotel_Review-g154247-d4066132-Reviews-Hotel_del_Norte-Mexicali_Baja_California.html",
+    "address": "Av. Francisco I. Madero 205, Centro, 21100 Mexicali, B.C., Mexico",
+    "rating": "3.5",
+    "reviews": "114",
+    "class": "3-star hotel",
+    "avgPrice": "$53",
+    "driveTime": "1 hr 10 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=Av.%20Francisco%20I.%20Madero%20205%2C%20Centro%2C%2021100%20Mexicali%2C%20B.C.%2C%20Mexico&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 53,
+    "hotelClass": "3star",
+    "driveMinutes": 70,
+    "monthlyPrices": []
+  },
+  {
+    "id": 36,
+    "name": "Knights Inn Yuma",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipP-EcZAneLHgkFEHKhcvfEHW4D5PV254bHk68ww=s1360-w1360-h1020-rw",
+    "url": "https://www.tripadvisor.com/Hotel_Review-g31418-d1152698-Reviews-Knights_Inn_Yuma-Yuma_Arizona.html",
+    "address": "2730 S 4th Ave, Yuma, AZ 85364",
+    "rating": "3.1",
+    "reviews": "310",
+    "class": "2-star hotel",
+    "avgPrice": "$52",
+    "driveTime": "19 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=2730%20S%204th%20Ave%2C%20Yuma%2C%20AZ%2085364&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 52,
+    "hotelClass": "2star",
+    "driveMinutes": 19,
+    "monthlyPrices": []
+  },
+  {
+    "id": 37,
+    "name": "Friendship Inn Torch Lite Lodge",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npP4EOyWf0L0ikHZaITgz3xXaAFJXsLL4uyRvJpQ9ovzi3dUC89thTEggA5fUM5W-ihoY9UhG2izHYYgaxjb5GrdrqofpzAcQEkCFZVXgvfPnLjeJRgs71Od5Ys_rYmrPG2trkz=s1360-w1360-h1020-rw",
+    "url": "https://www.tripadvisor.com/Hotel_Review-g31418-d1224083-Reviews-Friendship_Inn_Torch_Lite_Lodge-Yuma_Arizona.html",
+    "address": "2501 S 4th Ave, Yuma, AZ 85364",
+    "rating": "4",
+    "reviews": "171 Google reviews",
+    "class": "2-star hotel",
+    "avgPrice": "$66",
+    "driveTime": "19 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=2501%20S%204th%20Ave%2C%20Yuma%2C%20AZ%2085364&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 66,
+    "hotelClass": "2star",
+    "driveMinutes": 19,
+    "monthlyPrices": []
+  },
+  {
+    "id": 38,
+    "name": "Residence Inn Yuma",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPv6C3pAemmpqjNfWPuV2L6YJoPD5ZFDHFbCnzQ=s1360-w1360-h1020-rw",
+    "url": "https://www.tripadvisor.com/Hotel_Review-g31418-d32706823-Reviews-Residence_Inn_Yuma-Yuma_Arizona.html",
+    "address": "1688 S Sunridge Dr, Yuma, AZ 85365",
+    "rating": "4.4",
+    "reviews": "21 Google reviews",
+    "class": "3-star hotel",
+    "avgPrice": "$161",
+    "driveTime": "14 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=1688%20S%20Sunridge%20Dr%2C%20Yuma%2C%20AZ%2085365&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 161,
+    "hotelClass": "3star",
+    "driveMinutes": 14,
+    "monthlyPrices": []
+  },
+  {
+    "id": 39,
+    "name": "Cielito Lindo Hotel",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npYX8brSeS1Zc4o_G6UDcl2lzrQda1mEDtKO6tXpEnyDcAe41Rte6dywJQTPQqwU2JSXjJSAtAD526-HXcewIwe_8B9jnqdVVcef5iceqJipCYPn5aCfG7Dkgal9CI1ig37UkLS=s1360-w1360-h1020-rw",
+    "url": "https://www.tripadvisor.com/Hotel_Review-g642246-d11926374-Reviews-Cielito_Lindo_Hotel-Los_Algodones_Baja_California.html",
+    "address": "C. Álamo 289, 21970 Vicente Guerrero, B.C., Mexico",
+    "rating": "4.2",
+    "reviews": "148 Google reviews",
+    "class": "3-star hotel",
+    "avgPrice": "$70",
+    "driveTime": "3 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=C.%20%C3%81lamo%20289%2C%2021970%20Vicente%20Guerrero%2C%20B.C.%2C%20Mexico&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 70,
+    "hotelClass": "3star",
+    "driveMinutes": 3,
+    "monthlyPrices": []
+  },
+  {
+    "id": 40,
+    "name": "California Comfort & Suites",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrKlOX4gDMPALS6K3JxtarXAM8Kiz3CTnOPFjW20dEAMKP9xlqDUpBwL3i0sBdurgjwMGlez3L6uoYeB0H4biFNiT3XAYhLuDaFvZFzAATgDfXpCcXHzRlC0MtnAml32iMo4LKiZg=s1360-w1360-h1020-rw",
+    "url": "https://www.tripadvisor.com/Hotel_Review-g642246-d13290282-Reviews-California_Comfort_Suites-Los_Algodones_Baja_California.html",
+    "address": "Calz. Saratoga, 21970 Vicente Guerrero, B.C., Mexico",
+    "rating": "4.2",
+    "reviews": "616 Google Reviews",
+    "class": "3-star hotel",
+    "avgPrice": "$53",
+    "driveTime": "3 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=Calz.%20Saratoga%2C%2021970%20Vicente%20Guerrero%2C%20B.C.%2C%20Mexico&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 53,
+    "hotelClass": "3star",
+    "driveMinutes": 3,
+    "monthlyPrices": []
+  },
+  {
+    "id": 41,
+    "name": "Maria's Inn",
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/15/bf/b9/49/mary-s-inn.jpg?w=1400&h=-1&s=1",
+    "url": "https://www.tripadvisor.com/Hotel_Review-g642246-d15347711-Reviews-Maria_s_Inn-Los_Algodones_Baja_California.html",
+    "address": "Calzada Zaratoga # 281, Los Algodones 21970 Mexico",
+    "rating": "3.4",
+    "reviews": "5 TripAdvisor",
+    "class": "3-star hotel",
+    "avgPrice": "N/A",
+    "driveTime": "3 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=Calzada%20Zaratoga%20%23%20281%2C%20Los%20Algodones%2021970%20Mexico&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 0,
+    "hotelClass": "3star",
+    "driveMinutes": 3,
+    "monthlyPrices": []
+  },
+  {
+    "id": 42,
+    "name": "Hacienda Los Algodones",
+    "image": "https://lh3.googleusercontent.com/p/AF1QipOgthn-v32N-ZKa22inDy89bTfi7Oa_iOAccBJy=s1360-w1360-h1020-rw",
+    "url": "https://www.tripadvisor.com/Hotel_Review-g642246-d2062866-Reviews-Hacienda_Los_Algodones-Los_Algodones_Baja_California.html",
+    "address": "C. Encino, 21970 Vicente Guerrero, B.C., Mexico",
+    "rating": "4.3",
+    "reviews": "423 Google Reviews",
+    "class": "3-star hotel",
+    "avgPrice": "$61",
+    "driveTime": "3 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=C.%20Encino%2C%2021970%20Vicente%20Guerrero%2C%20B.C.%2C%20Mexico&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 61,
+    "hotelClass": "3star",
+    "driveMinutes": 3,
+    "monthlyPrices": []
+  },
+  {
+    "id": 43,
+    "name": "Quechan Casino",
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4no4Tgf1TrPIClhL2yj4j0SwFnnX_JFOMG6Rf-aTXRXhetjWWwMw42hKegSSP5tMzWcSCdbzYjX-CxW4PgZk9saRTEMexeBcm9EOvpWYn64yyZsayHEDIJ-oLucFFrYWwzZVHAapio1CQ1Po=s1360-w1360-h1020-rw",
+    "url": "https://playqcr.com/",
+    "address": "525 Algodones Rd, Winterhaven, CA 92283",
+    "rating": "4",
+    "reviews": "4787 Google Reviews",
+    "class": "3-star hotel",
+    "avgPrice": "$99",
+    "driveTime": "5 min",
+    "mapsUrl": "https://maps.google.com/maps?saddr=525%20Algodones%20Rd%2C%20Winterhaven%2C%20CA%2092283&daddr=Los%20Algodones%2C%20Baja%20California%2C%20Mexico",
+    "price": 99,
+    "hotelClass": "3star",
+    "driveMinutes": 5,
+    "monthlyPrices": []
+  }
+]
